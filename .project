@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>String</name>
+=======
+	<name>Array</name>
+>>>>>>> 07126d5db18b32dd4d2636af21421eb67131465a
 	<comment></comment>
 	<projects>
 	</projects>
